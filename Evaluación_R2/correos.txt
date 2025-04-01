@@ -1,0 +1,27 @@
+
+Juan Pérez - juanperez@gmail.com - +52 222 123 4567
+María López - maria123@yahoo.com - +52 555 987 6543
+Carlos Ramírez - carlos@trabajo.com.mx - +1 212 555 1234
+Texto adicional sin información útil.
+Pedro Gómez - pedro@empresa.org
+email_invalido@sin_dominio
++44 20 7946 0958
+Luis Torres - luistorres@empresa.co - +52 123 987 6540
+Calle Falsa 123
+contacto@dominio.com - +1 800 555 1234
+Claudia García - claudia_garcia@correo.org - +34 123 456 789
+1234 Avenida Principal
+info@empresa.com
+Texto sin formato adecuado.
+Juanita Medina - juanita.medina@hotmail.com - +52 55 9876 5432
+Juan Carlos - jcm@personal.org - +1 987 654 3210
+Texto aleatorio que no sigue el formato.
+rosario@dominio.co.uk - +49 30 123456
+diana@gmail..com
+Texto@invalido - +33 1 42 68 53 00
+contacto@soporte.es - +34 654 321 987
+francisco@mail.co - +54 11 4321 8765
+Usuario sin información útil.
+mariana.123@dominio.cl - +56 9 1234 5678
+...
+
